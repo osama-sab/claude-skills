@@ -1,0 +1,10 @@
+# Course-derived exam material stays local (see README)
+skills/ti2-exam-coach/references/exercise-bank.md
+skills/tp4-ekf-exam-coach/references/exercise-tracker.md
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.skill
